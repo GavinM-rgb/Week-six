@@ -47,5 +47,13 @@ Random pure
 Regular (symetrical 
 
 
+
+use of R! 
+grave yard data 
+	just press run 
+	- delete code in frist excutable (already done)
+	
+
+
 Knowing what they are 
 D(p,q)2 = (q1 - P1)2 + (q2- p2)
